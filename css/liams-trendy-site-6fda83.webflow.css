@@ -3,27 +3,13 @@ body {
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: repeat;
+  background-attachment: fixed;
   font-family: Montserrat, sans-serif;
   color: #fff;
   font-size: 14px;
   line-height: 20px;
 }
-.image-hero-area {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: -100;
-  margin: 0;
-  background: url('../images/luxury-casino-golden-chips-cards-poker-chips-falling-premium-photo.jpg') center center no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  }
+
 .navbar-light {
   margin-top: 0px;
   padding-top: 10px;
