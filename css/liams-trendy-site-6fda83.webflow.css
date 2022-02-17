@@ -9,7 +9,17 @@ body {
   font-size: 14px;
   line-height: 20px;
 }
-
+.background_wrap {
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-size: 100%;
+  background-image: url('../images/luxury-casino-golden-chips-cards-poker-chips-falling-premium-photo.jpg');
+  background-attachment: fixed;
+}
 .navbar-light {
   margin-top: 0px;
   padding-top: 10px;
